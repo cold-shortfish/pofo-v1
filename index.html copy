@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- include these for google -->
+    <meta name="title" content="aiyu's portfolio">
+    <meta name="description" content="aiyu thinks about the world through clothes">
+
+      
+    <!-- all the diff favicons favicon-generator  -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fapple-touch-icon.png?v=1610386087405">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffavicon-32x32.png?v=1610386091624">
+    <link rel="icon" type="image/png" sizes="16x16" href="/https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffavicon-16x16.png?v=1610386088903">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <title>liang aiyu</title>
+    
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    
+    <!-- import the webpage's javascript file -->
+    
+    <!-- Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  </head>  
+  <body class="bg-blk">
+    <header>
+      <div class="name name-bio">
+        <h1 id="a">a</h1>
+        <h1 id="i">i</h1>
+        <h1 id="y">y</h1>
+        <h1 id="u">u</h1>     
+        <h1 id="l">l</h1>
+        <h1 id="i2">i</h1>
+        <h1 id="a2">a</h1>
+        <h1 id="n">n</h1>
+        <h1 id="g">g</h1>
+      </div>
+    </header>
+    <main>
+      <ul class="project-grid">
+        <li class="large">
+          <a class="c2" href="pages/incasethat.html">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fthesis%20cape.png?v=1610037685382">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fthesis%20cape.jpg?v=1610037863718">
+          </a>  
+        </li>
+        <li>
+          <a class="c2" href="pages/hollowring.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fhollow%20ring%20straight.png?v=1610055314556">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fhollow%20ring.png?v=1610055308372">
+          </a>
+        </li>
+        <li class="medium">
+          <a class="c2" href="pages/log.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fknit%20experiment1.png?v=1610918093481">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fknit%20experiment%202.png?v=1610056173693">
+          </a>
+        </li>
+        <li>
+          <a class="c2" href="pages/onthego.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fon%20the%20go%20suit.png?v=1610037698833">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fon%20the%20go%20suit.JPG?v=1610037854620">
+          </a>
+        </li>
+        <li>
+          <a class="bop-cover" href="pages/bop.html">
+          BOP 
+          </a> 
+        </li>
+        <li>
+          <a class="c2" href="pages/12ampm.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F12AM12PM%20cut%20sew.png?v=1610037719117">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F12AM12PM%20cut%20sew.JPG?v=1610037796988">
+          </a>
+        </li>
+        <li class="medium">
+          <a class="c2" href="pages/12ampm.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F12AM12PM%20knit.png?v=1610037784763">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F12AM12PM%20knit.JPG?v=1610037799111">
+          </a>
+        </li>
+        <li>
+          <a class="c2" href="pages/swatchbook.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fs19%20drape.jpg?v=1610037739868">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fs19%20cage.jpg?v=1610037859357">
+          </a>
+        </li>
+        <li class="large">
+          <a class="c2" href="pages/picknchoose.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fshelf%20cape.png?v=1610296652852">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fshelf%20cape.jpg?v=1610080221231">
+          </a>
+        </li>
+        <li class="medium">
+          <a class="c2" href="pages/picknchoose.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ftobi%20jeans.png?v=1610296660271">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ftobi%20jeans.jpg?v=1610080221591">
+          </a>
+        </li>
+        <li class="medium">
+          <a class="c2" href="pages/whiteproj.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fwhite%20project.png?v=1610037723521">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fwhite%20project.jpg?v=1610037873241">
+          </a>
+        </li>
+         <li>
+          <a class="c2" href="pages/taste.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fs18%20spatial.png?v=1610130914148">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fs18%20spatial.JPG?v=1610130922144">
+          </a>
+        </li>
+         <li>
+          <a class="c2" href="pages/slotless.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fdrawing%20machine.png?v=1610037474904">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fdrawing%20machine.JPG?v=1610037860526">
+          </a>
+        </li>
+         <li>
+          <a class="c2" href="pages/lotus.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Flotus%20mold.jpg?v=1610037680071">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Flotus%20mold%20itself.jpg?v=1610037852739">
+          </a>
+        </li>
+         <li>
+          <a class="c2" href="pages/fleeting.html">
+            <img class="normal-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffleeting%20rememberance.jpg?v=1610080314850">
+            <img class="hover-img" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffleeting%20rememberance%202.jpg?v=1610080211656">
+          </a>
+        </li>
+         <li>
+          <a class="c2">
+            <img class="normal-img" src="">
+            <img class="hover-img" src="">
+          </a>
+        </li>
+      </ul>
+    </main>
+  </body>
+</html>
