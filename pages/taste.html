@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- include these for google -->
+    <meta name="title" content="aiyu's portfolio">
+    <meta name="description" content="">
+
+      
+    <!-- favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fapple-touch-icon.png?v=1610386087405">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffavicon-32x32.png?v=1610386091624">
+    <link rel="icon" type="image/png" sizes="16x16" href="/https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Ffavicon-16x16.png?v=1610386088903">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <title>If eyes could taste</title>
+    
+    <link rel="stylesheet" href="/style.css">
+    <script src="/script.js" type="text/javascript"></script>
+  </head>
+  
+  <body>
+    <main>
+      <div class="transition transition-fade is-active"></div>
+      <a class="back" href="../index.html">&#8617;</a>
+      
+      <div class="taste">
+        <a class="taste-sound" href="javascript:playSound('sweet')">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsweet.JPG?v=1611291621682" alt="sweet">
+        </a>
+        <p>
+          For a “sweet” taste, the subject saw hues of red projected onto a white, organically-shaped piece of rice cake which was placed on a white circle. For sound, a light string melody was played and the subject smelled a combination of almond and frankincense through a diffuser. All of these sensory elements, which corresponded with general perceptions of sweetness, were designed to influence the subject’s tasting of a piece of tasteless food.
+        </p>
+        <p>
+          click on image to play corresponding music
+        </p>
+        <a class="taste-sound" href="javascript:playSound('savory')">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsavory.JPG?v=1611291615939" alt="savory">
+        </a>
+        <p>
+          savory
+        </p>
+        <a class="taste-sound" href="javascript:playSound('sour')">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsour.JPG?v=1611291620117" alt="sour">
+        </a>
+        <p>
+          sour
+        </p>
+        <a class="taste-sound" href="javascript:playSound('bitter')">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fbitter.JPG?v=1611291613149" alt="bitter">
+        </a>
+        <p>
+          bitter
+        </p>
+      </div>
+      <audio id="sweet" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsweet.m4a?v=1611351442768" preload="auto"></audio>
+      <audio id="savory" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsalty.m4a?v=1611351438107" preload="auto"></audio>
+      <audio id="sour" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fsour.m4a?v=1611351440026" preload="auto"></audio>
+      <audio id="bitter" src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2Fbitter.m4a?v=1611351435973" preload="auto"></audio>
+      <div class="slideshow-container-right">
+        <!-- Next and previous buttons -->
+        <button class="left" onclick="plusSlides(-1)">&#10094;</button>
+        <button class="right" onclick="plusSlides(1)">&#10095;</button>
+        
+        <div class="slides">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F1.JPG?v=1611291566528" style="width:100%">
+        </div>
+        <div class="slides">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F6.JPG?v=1611291604633" style="width:100%">
+        </div>
+        <div class="slides">
+          <img src="https://cdn.glitch.com/c9a0df9e-dba9-49c2-8af4-a395527d284f%2F7.JPG?v=1611291576836" style="width:100%">
+        </div>
+      </div>
+      <script src="/carousel.js"></script>
+      <div class="placard">
+        <h2>if eyes could taste</h2>
+        <h3>may 2018</h3>
+        <p>
+          An investigation into how the other senses (sight, sound, texture, smell) can affect taste. <br> bitter, umami, sour, and sweet. 
+        </p>
+        <p>
+          Each taste, accompanied by corresponding music, shape, and colors, was projected upon a flavorless jelly or rice cake. The participant was asked to taste the food whilst listening to music, smelling a scent through a diffuser, and looking at textual descriptors.
+        </p>
+        <p>
+          based on psychology research by <a href="https://www.psy.ox.ac.uk/team/charles-spence">Charles Spence</a>
+        </p>
+      </div>
+      <script src="../script.js" type="text/javascript"></script>
+    </main>
+  </body>
+</html>
